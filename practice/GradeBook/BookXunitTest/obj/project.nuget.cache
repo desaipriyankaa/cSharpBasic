@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dEjhu4X3f7ICdS4dnbYpjxxOYQsJlixZ2CSDqciKhsoVmacGHWC0cT7W4jzIX+si+XXB0w6k20LeANjheghCDw==",
+  "dgSpecHash": "AYW6zOgGTsIPZmfG0XLFAs4/QygSlV7ajfvMOX+xydt0TkZLAvo15VpTEptSoOJQp+mo0YGZuFQqPV8yZsogDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\desa_pri\\source\\repos\\GradeBook\\BookXunitTest\\BookXunitTest.csproj",
+  "projectFilePath": "C:\\github\\cSharpBasic\\practice\\GradeBook\\BookXunitTest\\BookXunitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\desa_pri\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\desa_pri\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
