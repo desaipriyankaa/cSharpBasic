@@ -1,0 +1,13 @@
+C:\Users\desa_pri\source\repos\IfStatement2\IfStatement2\bin\Debug\netcoreapp3.1\IfStatement2.exe
+C:\Users\desa_pri\source\repos\IfStatement2\IfStatement2\bin\Debug\netcoreapp3.1\IfStatement2.deps.json
+C:\Users\desa_pri\source\repos\IfStatement2\IfStatement2\bin\Debug\netcoreapp3.1\IfStatement2.runtimeconfig.json
+C:\Users\desa_pri\source\repos\IfStatement2\IfStatement2\bin\Debug\netcoreapp3.1\IfStatement2.runtimeconfig.dev.json
+C:\Users\desa_pri\source\repos\IfStatement2\IfStatement2\bin\Debug\netcoreapp3.1\IfStatement2.dll
+C:\Users\desa_pri\source\repos\IfStatement2\IfStatement2\bin\Debug\netcoreapp3.1\IfStatement2.pdb
+C:\Users\desa_pri\source\repos\IfStatement2\IfStatement2\obj\Debug\netcoreapp3.1\IfStatement2.AssemblyInfoInputs.cache
+C:\Users\desa_pri\source\repos\IfStatement2\IfStatement2\obj\Debug\netcoreapp3.1\IfStatement2.AssemblyInfo.cs
+C:\Users\desa_pri\source\repos\IfStatement2\IfStatement2\obj\Debug\netcoreapp3.1\IfStatement2.csproj.CoreCompileInputs.cache
+C:\Users\desa_pri\source\repos\IfStatement2\IfStatement2\obj\Debug\netcoreapp3.1\IfStatement2.dll
+C:\Users\desa_pri\source\repos\IfStatement2\IfStatement2\obj\Debug\netcoreapp3.1\IfStatement2.pdb
+C:\Users\desa_pri\source\repos\IfStatement2\IfStatement2\obj\Debug\netcoreapp3.1\IfStatement2.genruntimeconfig.cache
+C:\Users\desa_pri\source\repos\IfStatement2\IfStatement2\obj\Debug\netcoreapp3.1\IfStatement2.csprojAssemblyReference.cache

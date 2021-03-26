@@ -1,0 +1,13 @@
+C:\Users\desa_pri\source\repos\BoxPattern\BoxPattern\bin\Debug\netcoreapp3.1\BoxPattern.exe
+C:\Users\desa_pri\source\repos\BoxPattern\BoxPattern\bin\Debug\netcoreapp3.1\BoxPattern.deps.json
+C:\Users\desa_pri\source\repos\BoxPattern\BoxPattern\bin\Debug\netcoreapp3.1\BoxPattern.runtimeconfig.json
+C:\Users\desa_pri\source\repos\BoxPattern\BoxPattern\bin\Debug\netcoreapp3.1\BoxPattern.runtimeconfig.dev.json
+C:\Users\desa_pri\source\repos\BoxPattern\BoxPattern\bin\Debug\netcoreapp3.1\BoxPattern.dll
+C:\Users\desa_pri\source\repos\BoxPattern\BoxPattern\bin\Debug\netcoreapp3.1\BoxPattern.pdb
+C:\Users\desa_pri\source\repos\BoxPattern\BoxPattern\obj\Debug\netcoreapp3.1\BoxPattern.AssemblyInfoInputs.cache
+C:\Users\desa_pri\source\repos\BoxPattern\BoxPattern\obj\Debug\netcoreapp3.1\BoxPattern.AssemblyInfo.cs
+C:\Users\desa_pri\source\repos\BoxPattern\BoxPattern\obj\Debug\netcoreapp3.1\BoxPattern.csproj.CoreCompileInputs.cache
+C:\Users\desa_pri\source\repos\BoxPattern\BoxPattern\obj\Debug\netcoreapp3.1\BoxPattern.dll
+C:\Users\desa_pri\source\repos\BoxPattern\BoxPattern\obj\Debug\netcoreapp3.1\BoxPattern.pdb
+C:\Users\desa_pri\source\repos\BoxPattern\BoxPattern\obj\Debug\netcoreapp3.1\BoxPattern.genruntimeconfig.cache
+C:\Users\desa_pri\source\repos\BoxPattern\BoxPattern\obj\Debug\netcoreapp3.1\BoxPattern.csprojAssemblyReference.cache

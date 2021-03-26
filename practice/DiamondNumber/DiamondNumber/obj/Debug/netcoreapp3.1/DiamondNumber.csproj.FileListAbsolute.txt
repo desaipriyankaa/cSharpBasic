@@ -1,0 +1,13 @@
+C:\Users\desa_pri\source\repos\DiamondNumber\DiamondNumber\bin\Debug\netcoreapp3.1\DiamondNumber.exe
+C:\Users\desa_pri\source\repos\DiamondNumber\DiamondNumber\bin\Debug\netcoreapp3.1\DiamondNumber.deps.json
+C:\Users\desa_pri\source\repos\DiamondNumber\DiamondNumber\bin\Debug\netcoreapp3.1\DiamondNumber.runtimeconfig.json
+C:\Users\desa_pri\source\repos\DiamondNumber\DiamondNumber\bin\Debug\netcoreapp3.1\DiamondNumber.runtimeconfig.dev.json
+C:\Users\desa_pri\source\repos\DiamondNumber\DiamondNumber\bin\Debug\netcoreapp3.1\DiamondNumber.dll
+C:\Users\desa_pri\source\repos\DiamondNumber\DiamondNumber\bin\Debug\netcoreapp3.1\DiamondNumber.pdb
+C:\Users\desa_pri\source\repos\DiamondNumber\DiamondNumber\obj\Debug\netcoreapp3.1\DiamondNumber.AssemblyInfoInputs.cache
+C:\Users\desa_pri\source\repos\DiamondNumber\DiamondNumber\obj\Debug\netcoreapp3.1\DiamondNumber.AssemblyInfo.cs
+C:\Users\desa_pri\source\repos\DiamondNumber\DiamondNumber\obj\Debug\netcoreapp3.1\DiamondNumber.csproj.CoreCompileInputs.cache
+C:\Users\desa_pri\source\repos\DiamondNumber\DiamondNumber\obj\Debug\netcoreapp3.1\DiamondNumber.dll
+C:\Users\desa_pri\source\repos\DiamondNumber\DiamondNumber\obj\Debug\netcoreapp3.1\DiamondNumber.pdb
+C:\Users\desa_pri\source\repos\DiamondNumber\DiamondNumber\obj\Debug\netcoreapp3.1\DiamondNumber.genruntimeconfig.cache
+C:\Users\desa_pri\source\repos\DiamondNumber\DiamondNumber\obj\Debug\netcoreapp3.1\DiamondNumber.csprojAssemblyReference.cache

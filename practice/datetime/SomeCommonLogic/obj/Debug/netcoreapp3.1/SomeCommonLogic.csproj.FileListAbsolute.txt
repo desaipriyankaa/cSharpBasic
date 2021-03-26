@@ -1,0 +1,8 @@
+C:\Users\desa_pri\source\repos\datetime\SomeCommonLogic\bin\Debug\netcoreapp3.1\SomeCommonLogic.deps.json
+C:\Users\desa_pri\source\repos\datetime\SomeCommonLogic\bin\Debug\netcoreapp3.1\SomeCommonLogic.dll
+C:\Users\desa_pri\source\repos\datetime\SomeCommonLogic\bin\Debug\netcoreapp3.1\SomeCommonLogic.pdb
+C:\Users\desa_pri\source\repos\datetime\SomeCommonLogic\obj\Debug\netcoreapp3.1\SomeCommonLogic.AssemblyInfoInputs.cache
+C:\Users\desa_pri\source\repos\datetime\SomeCommonLogic\obj\Debug\netcoreapp3.1\SomeCommonLogic.AssemblyInfo.cs
+C:\Users\desa_pri\source\repos\datetime\SomeCommonLogic\obj\Debug\netcoreapp3.1\SomeCommonLogic.csproj.CoreCompileInputs.cache
+C:\Users\desa_pri\source\repos\datetime\SomeCommonLogic\obj\Debug\netcoreapp3.1\SomeCommonLogic.dll
+C:\Users\desa_pri\source\repos\datetime\SomeCommonLogic\obj\Debug\netcoreapp3.1\SomeCommonLogic.pdb

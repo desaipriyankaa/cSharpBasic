@@ -1,0 +1,12 @@
+C:\Users\desa_pri\source\repos\LogicalOperator\LogicalOperator\bin\Debug\netcoreapp3.1\LogicalOperator.exe
+C:\Users\desa_pri\source\repos\LogicalOperator\LogicalOperator\bin\Debug\netcoreapp3.1\LogicalOperator.deps.json
+C:\Users\desa_pri\source\repos\LogicalOperator\LogicalOperator\bin\Debug\netcoreapp3.1\LogicalOperator.runtimeconfig.json
+C:\Users\desa_pri\source\repos\LogicalOperator\LogicalOperator\bin\Debug\netcoreapp3.1\LogicalOperator.runtimeconfig.dev.json
+C:\Users\desa_pri\source\repos\LogicalOperator\LogicalOperator\bin\Debug\netcoreapp3.1\LogicalOperator.dll
+C:\Users\desa_pri\source\repos\LogicalOperator\LogicalOperator\bin\Debug\netcoreapp3.1\LogicalOperator.pdb
+C:\Users\desa_pri\source\repos\LogicalOperator\LogicalOperator\obj\Debug\netcoreapp3.1\LogicalOperator.AssemblyInfoInputs.cache
+C:\Users\desa_pri\source\repos\LogicalOperator\LogicalOperator\obj\Debug\netcoreapp3.1\LogicalOperator.AssemblyInfo.cs
+C:\Users\desa_pri\source\repos\LogicalOperator\LogicalOperator\obj\Debug\netcoreapp3.1\LogicalOperator.csproj.CoreCompileInputs.cache
+C:\Users\desa_pri\source\repos\LogicalOperator\LogicalOperator\obj\Debug\netcoreapp3.1\LogicalOperator.dll
+C:\Users\desa_pri\source\repos\LogicalOperator\LogicalOperator\obj\Debug\netcoreapp3.1\LogicalOperator.pdb
+C:\Users\desa_pri\source\repos\LogicalOperator\LogicalOperator\obj\Debug\netcoreapp3.1\LogicalOperator.genruntimeconfig.cache

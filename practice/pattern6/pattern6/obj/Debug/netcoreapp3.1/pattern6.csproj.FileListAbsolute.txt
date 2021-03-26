@@ -1,0 +1,13 @@
+C:\Users\desa_pri\source\repos\pattern6\pattern6\bin\Debug\netcoreapp3.1\pattern6.exe
+C:\Users\desa_pri\source\repos\pattern6\pattern6\bin\Debug\netcoreapp3.1\pattern6.deps.json
+C:\Users\desa_pri\source\repos\pattern6\pattern6\bin\Debug\netcoreapp3.1\pattern6.runtimeconfig.json
+C:\Users\desa_pri\source\repos\pattern6\pattern6\bin\Debug\netcoreapp3.1\pattern6.runtimeconfig.dev.json
+C:\Users\desa_pri\source\repos\pattern6\pattern6\bin\Debug\netcoreapp3.1\pattern6.dll
+C:\Users\desa_pri\source\repos\pattern6\pattern6\bin\Debug\netcoreapp3.1\pattern6.pdb
+C:\Users\desa_pri\source\repos\pattern6\pattern6\obj\Debug\netcoreapp3.1\pattern6.AssemblyInfoInputs.cache
+C:\Users\desa_pri\source\repos\pattern6\pattern6\obj\Debug\netcoreapp3.1\pattern6.AssemblyInfo.cs
+C:\Users\desa_pri\source\repos\pattern6\pattern6\obj\Debug\netcoreapp3.1\pattern6.csproj.CoreCompileInputs.cache
+C:\Users\desa_pri\source\repos\pattern6\pattern6\obj\Debug\netcoreapp3.1\pattern6.dll
+C:\Users\desa_pri\source\repos\pattern6\pattern6\obj\Debug\netcoreapp3.1\pattern6.pdb
+C:\Users\desa_pri\source\repos\pattern6\pattern6\obj\Debug\netcoreapp3.1\pattern6.genruntimeconfig.cache
+C:\Users\desa_pri\source\repos\pattern6\pattern6\obj\Debug\netcoreapp3.1\pattern6.csprojAssemblyReference.cache

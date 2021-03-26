@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "name": ".NET Core Launch (console)",
+
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "$/source/args/bin/Debug/netcoreapp3.1",
+      "args": [ "priyanka" ],
+      "cwd": "$/source/repos/args/args",
+      "console": "internalConsole",
+      "stopAtEntry": false
+    }
+
+  ]
+
+    "exclude"
+    :
+    [
+      "**/bin",
+      "**/bower_components",
+      "**/jspm_packages",
+      "**/node_modules",
+      "**/obj",
+      "**/platforms"
+    ]
+}

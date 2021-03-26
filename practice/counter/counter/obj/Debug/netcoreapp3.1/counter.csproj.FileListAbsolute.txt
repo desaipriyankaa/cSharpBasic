@@ -1,0 +1,13 @@
+C:\Users\desa_pri\source\repos\counter\counter\bin\Debug\netcoreapp3.1\counter.exe
+C:\Users\desa_pri\source\repos\counter\counter\bin\Debug\netcoreapp3.1\counter.deps.json
+C:\Users\desa_pri\source\repos\counter\counter\bin\Debug\netcoreapp3.1\counter.runtimeconfig.json
+C:\Users\desa_pri\source\repos\counter\counter\bin\Debug\netcoreapp3.1\counter.runtimeconfig.dev.json
+C:\Users\desa_pri\source\repos\counter\counter\bin\Debug\netcoreapp3.1\counter.dll
+C:\Users\desa_pri\source\repos\counter\counter\bin\Debug\netcoreapp3.1\counter.pdb
+C:\Users\desa_pri\source\repos\counter\counter\obj\Debug\netcoreapp3.1\counter.csprojAssemblyReference.cache
+C:\Users\desa_pri\source\repos\counter\counter\obj\Debug\netcoreapp3.1\counter.AssemblyInfoInputs.cache
+C:\Users\desa_pri\source\repos\counter\counter\obj\Debug\netcoreapp3.1\counter.AssemblyInfo.cs
+C:\Users\desa_pri\source\repos\counter\counter\obj\Debug\netcoreapp3.1\counter.csproj.CoreCompileInputs.cache
+C:\Users\desa_pri\source\repos\counter\counter\obj\Debug\netcoreapp3.1\counter.dll
+C:\Users\desa_pri\source\repos\counter\counter\obj\Debug\netcoreapp3.1\counter.pdb
+C:\Users\desa_pri\source\repos\counter\counter\obj\Debug\netcoreapp3.1\counter.genruntimeconfig.cache

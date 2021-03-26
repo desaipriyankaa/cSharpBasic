@@ -1,0 +1,13 @@
+C:\Users\desa_pri\source\repos\student_info\student\bin\Debug\netcoreapp3.1\student.exe
+C:\Users\desa_pri\source\repos\student_info\student\bin\Debug\netcoreapp3.1\student.deps.json
+C:\Users\desa_pri\source\repos\student_info\student\bin\Debug\netcoreapp3.1\student.runtimeconfig.json
+C:\Users\desa_pri\source\repos\student_info\student\bin\Debug\netcoreapp3.1\student.runtimeconfig.dev.json
+C:\Users\desa_pri\source\repos\student_info\student\bin\Debug\netcoreapp3.1\student.dll
+C:\Users\desa_pri\source\repos\student_info\student\bin\Debug\netcoreapp3.1\student.pdb
+C:\Users\desa_pri\source\repos\student_info\student\obj\Debug\netcoreapp3.1\student.csprojAssemblyReference.cache
+C:\Users\desa_pri\source\repos\student_info\student\obj\Debug\netcoreapp3.1\student.AssemblyInfoInputs.cache
+C:\Users\desa_pri\source\repos\student_info\student\obj\Debug\netcoreapp3.1\student.AssemblyInfo.cs
+C:\Users\desa_pri\source\repos\student_info\student\obj\Debug\netcoreapp3.1\student.csproj.CoreCompileInputs.cache
+C:\Users\desa_pri\source\repos\student_info\student\obj\Debug\netcoreapp3.1\student.dll
+C:\Users\desa_pri\source\repos\student_info\student\obj\Debug\netcoreapp3.1\student.pdb
+C:\Users\desa_pri\source\repos\student_info\student\obj\Debug\netcoreapp3.1\student.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+ C:\Users\desa_pri\source\repos\counter\UsingList\bin\Debug\netcoreapp3.1\UsingList.exe
+C:\Users\desa_pri\source\repos\counter\UsingList\bin\Debug\netcoreapp3.1\UsingList.deps.json
+C:\Users\desa_pri\source\repos\counter\UsingList\bin\Debug\netcoreapp3.1\UsingList.runtimeconfig.json
+C:\Users\desa_pri\source\repos\counter\UsingList\bin\Debug\netcoreapp3.1\UsingList.runtimeconfig.dev.json
+C:\Users\desa_pri\source\repos\counter\UsingList\bin\Debug\netcoreapp3.1\UsingList.dll
+C:\Users\desa_pri\source\repos\counter\UsingList\bin\Debug\netcoreapp3.1\UsingList.pdb
+C:\Users\desa_pri\source\repos\counter\UsingList\obj\Debug\netcoreapp3.1\UsingList.csprojAssemblyReference.cache
+C:\Users\desa_pri\source\repos\counter\UsingList\obj\Debug\netcoreapp3.1\UsingList.AssemblyInfoInputs.cache
+C:\Users\desa_pri\source\repos\counter\UsingList\obj\Debug\netcoreapp3.1\UsingList.AssemblyInfo.cs
+C:\Users\desa_pri\source\repos\counter\UsingList\obj\Debug\netcoreapp3.1\UsingList.csproj.CoreCompileInputs.cache
+C:\Users\desa_pri\source\repos\counter\UsingList\obj\Debug\netcoreapp3.1\UsingList.dll
+C:\Users\desa_pri\source\repos\counter\UsingList\obj\Debug\netcoreapp3.1\UsingList.pdb
+C:\Users\desa_pri\source\repos\counter\UsingList\obj\Debug\netcoreapp3.1\UsingList.genruntimeconfig.cache

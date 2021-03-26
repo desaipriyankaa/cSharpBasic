@@ -1,0 +1,12 @@
+C:\Users\desa_pri\source\repos\pattern4\pattern4\bin\Debug\netcoreapp3.1\pattern4.exe
+C:\Users\desa_pri\source\repos\pattern4\pattern4\bin\Debug\netcoreapp3.1\pattern4.deps.json
+C:\Users\desa_pri\source\repos\pattern4\pattern4\bin\Debug\netcoreapp3.1\pattern4.runtimeconfig.json
+C:\Users\desa_pri\source\repos\pattern4\pattern4\bin\Debug\netcoreapp3.1\pattern4.runtimeconfig.dev.json
+C:\Users\desa_pri\source\repos\pattern4\pattern4\bin\Debug\netcoreapp3.1\pattern4.dll
+C:\Users\desa_pri\source\repos\pattern4\pattern4\bin\Debug\netcoreapp3.1\pattern4.pdb
+C:\Users\desa_pri\source\repos\pattern4\pattern4\obj\Debug\netcoreapp3.1\pattern4.AssemblyInfoInputs.cache
+C:\Users\desa_pri\source\repos\pattern4\pattern4\obj\Debug\netcoreapp3.1\pattern4.AssemblyInfo.cs
+C:\Users\desa_pri\source\repos\pattern4\pattern4\obj\Debug\netcoreapp3.1\pattern4.csproj.CoreCompileInputs.cache
+C:\Users\desa_pri\source\repos\pattern4\pattern4\obj\Debug\netcoreapp3.1\pattern4.dll
+C:\Users\desa_pri\source\repos\pattern4\pattern4\obj\Debug\netcoreapp3.1\pattern4.pdb
+C:\Users\desa_pri\source\repos\pattern4\pattern4\obj\Debug\netcoreapp3.1\pattern4.genruntimeconfig.cache

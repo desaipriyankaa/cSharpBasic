@@ -1,0 +1,13 @@
+C:\Users\desa_pri\source\repos\counter\varkeyword\bin\Debug\netcoreapp3.1\varkeyword.exe
+C:\Users\desa_pri\source\repos\counter\varkeyword\bin\Debug\netcoreapp3.1\varkeyword.deps.json
+C:\Users\desa_pri\source\repos\counter\varkeyword\bin\Debug\netcoreapp3.1\varkeyword.runtimeconfig.json
+C:\Users\desa_pri\source\repos\counter\varkeyword\bin\Debug\netcoreapp3.1\varkeyword.runtimeconfig.dev.json
+C:\Users\desa_pri\source\repos\counter\varkeyword\bin\Debug\netcoreapp3.1\varkeyword.dll
+C:\Users\desa_pri\source\repos\counter\varkeyword\bin\Debug\netcoreapp3.1\varkeyword.pdb
+C:\Users\desa_pri\source\repos\counter\varkeyword\obj\Debug\netcoreapp3.1\varkeyword.csprojAssemblyReference.cache
+C:\Users\desa_pri\source\repos\counter\varkeyword\obj\Debug\netcoreapp3.1\varkeyword.AssemblyInfoInputs.cache
+C:\Users\desa_pri\source\repos\counter\varkeyword\obj\Debug\netcoreapp3.1\varkeyword.AssemblyInfo.cs
+C:\Users\desa_pri\source\repos\counter\varkeyword\obj\Debug\netcoreapp3.1\varkeyword.csproj.CoreCompileInputs.cache
+C:\Users\desa_pri\source\repos\counter\varkeyword\obj\Debug\netcoreapp3.1\varkeyword.dll
+C:\Users\desa_pri\source\repos\counter\varkeyword\obj\Debug\netcoreapp3.1\varkeyword.pdb
+C:\Users\desa_pri\source\repos\counter\varkeyword\obj\Debug\netcoreapp3.1\varkeyword.genruntimeconfig.cache

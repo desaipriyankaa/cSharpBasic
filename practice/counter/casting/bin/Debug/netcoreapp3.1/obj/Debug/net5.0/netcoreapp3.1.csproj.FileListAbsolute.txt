@@ -1,0 +1,16 @@
+C:\Users\desa_pri\source\repos\counter\casting\bin\Debug\netcoreapp3.1\bin\Debug\net5.0\netcoreapp3.1.exe
+C:\Users\desa_pri\source\repos\counter\casting\bin\Debug\netcoreapp3.1\bin\Debug\net5.0\netcoreapp3.1.deps.json
+C:\Users\desa_pri\source\repos\counter\casting\bin\Debug\netcoreapp3.1\bin\Debug\net5.0\netcoreapp3.1.runtimeconfig.json
+C:\Users\desa_pri\source\repos\counter\casting\bin\Debug\netcoreapp3.1\bin\Debug\net5.0\netcoreapp3.1.runtimeconfig.dev.json
+C:\Users\desa_pri\source\repos\counter\casting\bin\Debug\netcoreapp3.1\bin\Debug\net5.0\netcoreapp3.1.dll
+C:\Users\desa_pri\source\repos\counter\casting\bin\Debug\netcoreapp3.1\bin\Debug\net5.0\ref\netcoreapp3.1.dll
+C:\Users\desa_pri\source\repos\counter\casting\bin\Debug\netcoreapp3.1\bin\Debug\net5.0\netcoreapp3.1.pdb
+C:\Users\desa_pri\source\repos\counter\casting\bin\Debug\netcoreapp3.1\obj\Debug\net5.0\netcoreapp3.1.csprojAssemblyReference.cache
+C:\Users\desa_pri\source\repos\counter\casting\bin\Debug\netcoreapp3.1\obj\Debug\net5.0\netcoreapp3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desa_pri\source\repos\counter\casting\bin\Debug\netcoreapp3.1\obj\Debug\net5.0\netcoreapp3.1.AssemblyInfoInputs.cache
+C:\Users\desa_pri\source\repos\counter\casting\bin\Debug\netcoreapp3.1\obj\Debug\net5.0\netcoreapp3.1.AssemblyInfo.cs
+C:\Users\desa_pri\source\repos\counter\casting\bin\Debug\netcoreapp3.1\obj\Debug\net5.0\netcoreapp3.1.csproj.CoreCompileInputs.cache
+C:\Users\desa_pri\source\repos\counter\casting\bin\Debug\netcoreapp3.1\obj\Debug\net5.0\netcoreapp3.1.dll
+C:\Users\desa_pri\source\repos\counter\casting\bin\Debug\netcoreapp3.1\obj\Debug\net5.0\ref\netcoreapp3.1.dll
+C:\Users\desa_pri\source\repos\counter\casting\bin\Debug\netcoreapp3.1\obj\Debug\net5.0\netcoreapp3.1.pdb
+C:\Users\desa_pri\source\repos\counter\casting\bin\Debug\netcoreapp3.1\obj\Debug\net5.0\netcoreapp3.1.genruntimeconfig.cache
